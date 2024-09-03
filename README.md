@@ -1,4 +1,4 @@
-## Hi there 👋
+## This is my datascience portfolio repo.
 
 <!--
 **alex2025space/alex2025space** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
