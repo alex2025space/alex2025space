@@ -1,4 +1,4 @@
-# My Projects
+# Projects
 Here is a list of projects that I am working on:
 # My Interests
 I'm interested in teaching novice coders about computer science!
